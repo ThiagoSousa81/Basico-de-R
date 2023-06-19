@@ -1,2 +1,2 @@
-# Basico-de-R
+# Básico de R
 Tudo o que sei fazer com R
