@@ -1,1 +1,1 @@
-echo;
+cat (" ---------  Medidas de Tendência Central ---------- ")
